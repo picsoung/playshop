@@ -1,0 +1,16 @@
+
+[submodule "meteor-Jamendo"]
+	path = meteor-Jamendo
+	url = git@github.com:picsoung/meteor-Jamendo.git
+[submodule "node-nutritionix"]
+	path = node-nutritionix
+	url = git@github.com:picsoung/node-nutritionix.git
+[submodule "meteor-5gigs"]
+	path = meteor-5gigs
+	url = git@github.com:picsoung/meteor-5gigs.git
+[submodule "nutritionix-barCode-scanner"]
+	path = nutritionix-barCode-scanner
+	url = git@github.com:picsoung/nutritionix-barCode-scanner.git
+[submodule "node-doctoralia"]
+	path = node-doctoralia
+	url = git@github.com:picsoung/node-doctoralia.git
